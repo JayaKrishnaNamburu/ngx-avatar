@@ -2,6 +2,7 @@
   "name": "ngx-avatar",
   "version": "1.0.0",
   "license": "MIT",
+  "homepage": "https://github.com/JayaKrishnaNamburu/ngx-avatar",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
