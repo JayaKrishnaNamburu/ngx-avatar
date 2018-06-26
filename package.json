@@ -1,8 +1,20 @@
 {
-  "name": "ngx-avatar",
-  "version": "1.0.0",
+  "name": "ngx-profile-avatar",
+  "version": "1.0.4",
   "license": "MIT",
+  "description": "ngx-profile-avatar helps in creating a default image placeolder using first name and last names.",
+  "author": "Jaya Krishna Namburu <namburu1995gmail.com>",
   "homepage": "https://github.com/JayaKrishnaNamburu/ngx-avatar",
+  "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JayaKrishnaNamburu/ngx-avatar"
+    },
+  "keywords": [
+    "profile",
+    "image",
+    "avatar",
+    "default-image"
+  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
